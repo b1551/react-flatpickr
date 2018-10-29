@@ -23,7 +23,7 @@
   "author": "haoxin",
   "license": "MIT",
   "dependencies": {
-    "flatpickr": "git://github.com/b1551/flatpickr.git#5588761617f03bda87a8a91e14a6d8949162e88b",
+    "flatpickr": "git://github.com/b1551/flatpickr.git",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
